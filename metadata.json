@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Plan de Estudios de Electrónica",
+  "description": "Una aplicación que genera un plan de estudios completo de 3 meses para un curso de electrónica, desde analógica básica hasta programación de ESP32 con EasyCoding, utilizando la API de Gemini.",
+  "requestFramePermissions": []
+}
